@@ -18,6 +18,8 @@ Pareto ist weniger eine Methode als ein Prinzip: Auch als 80-20-Regel bekannt, b
 * unseren Arbeitseinsatz zeitlich begrenzen, z. B. durch Timeboxing, also festgesetzte Zeitfenster
 * und unseren Perfektionismus herunterschrauben ("Better Done Than Perfect").
 
+Manche sagen auch: "80% ist Perfektion."
+
 ## Ein Kurzvideo zum Thema
 
 Im folgenden Kurzvideo gibt es eine Zusammenfassung der Methode. Vielleicht wird es damit verständlicher, wie die Methode angewendet werden kann.
