@@ -8,7 +8,7 @@ tags: [Selbstmanagement, Produktivität, Eisenhower]
 author: Arnd
 ---
 
-Die **Eisenhower-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist.
+Die **Eisenhower-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist. Vielleicht magst Du die Methode einmal ausprobieren? Ich bin gespannt, wie sie Dir gefällt.
 
 ## Die Eisenhower-Methode kurzgefasst
 

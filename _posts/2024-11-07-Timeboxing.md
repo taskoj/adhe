@@ -8,7 +8,7 @@ tags: [Selbstmanagement, Produktivität, Timeboxing-Methode]
 author: Arnd
 ---
 
-Die **Timeboxing-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist.
+Die **Timeboxing-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist. Vielleicht magst Du die Methode einmal ausprobieren? Ich bin gespannt, wie sie Dir gefällt.
 
 ## Die Timeboxing-Methode kurzgefasst
 

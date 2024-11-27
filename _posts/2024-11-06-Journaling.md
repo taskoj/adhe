@@ -8,7 +8,7 @@ tags: [Selbstmanagement, Produktivität, Journaling-Methode]
 author: Arnd
 ---
 
-Die **Journaling-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist.
+Die **Journaling-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist. Vielleicht magst Du die Methode einmal ausprobieren? Ich bin gespannt, wie sie Dir gefällt.
 
 ## Die Journaling-Methode kurzgefasst
 

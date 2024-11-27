@@ -8,7 +8,7 @@ tags: [Selbstmanagement, Produktivität, Pareto-Prinzip]
 author: Arnd
 ---
 
-Die **Pareto-Prinzip** ist eine weitere Selbstmanagement-Methode, die heute Thema ist.
+Die **Pareto-Prinzip** ist eine weitere Selbstmanagement-Methode, die heute Thema ist. Vielleicht magst Du die Methode einmal ausprobieren? Ich bin gespannt, wie sie Dir gefällt.
 
 ## Die Pareto-Prinzip kurzgefasst
 
