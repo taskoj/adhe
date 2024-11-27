@@ -4,7 +4,7 @@ title: Journaling-Methode
 subtitle: Dies ist Türchen Nummer 6. Nur noch 18 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Selbstmanagement, Produktivität, Journaling-Methode]
+tags: [Selbstmanagement, Journaling-Methode]
 author: Arnd
 ---
 

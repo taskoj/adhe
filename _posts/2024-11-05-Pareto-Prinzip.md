@@ -4,7 +4,7 @@ title: Pareto-Prinzip
 subtitle: Dies ist Türchen Nummer 5. Nur noch 19 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Selbstmanagement, Produktivität, Pareto-Prinzip]
+tags: [Selbstmanagement, Pareto-Prinzip]
 author: Arnd
 ---
 

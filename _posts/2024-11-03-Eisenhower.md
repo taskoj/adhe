@@ -4,7 +4,7 @@ title: Eisenhower
 subtitle: Dies ist Türchen Nummer 3. Nur noch 21 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Selbstmanagement, Produktivität, Eisenhower]
+tags: [Selbstmanagement, Eisenhower]
 author: Arnd
 ---
 
