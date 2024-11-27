@@ -8,7 +8,7 @@ tags: [Selbstmanagement, Produktivität, Pareto-Prinzip]
 author: Arnd
 ---
 
-Die **Pareto-Prinzip** ist eine Methode, die beim Selbstmanagement unterstützt. Beim Selbstmanagement handelt es sich um die Fähigkeit, unabhängig und selbstständig für die Gestaltung der eigenen beruflichen oder persönlichen Entwicklung zu sorgen.
+Die **Pareto-Prinzip** ist eine weitere Selbstmanagement-Methode, die heute Thema ist.
 
 ## Die Pareto-Prinzip kurzgefasst
 
