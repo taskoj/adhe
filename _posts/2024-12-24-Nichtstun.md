@@ -14,7 +14,7 @@ Die **Nichtstun-Methode** ist eine weitere Selbstmanagement-Methode, die heute T
 
 Man muss sich selber auch mal was jönne könne. Übertreibe es nicht mit der Selbstoptimierung. 
 
-Frohe Festtage, Henri!
+Frohe Festtage wünsche ich Dir nun, lieber Henri!
 
 ## Ein Kurzvideo zum Thema
 
