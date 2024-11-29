@@ -14,12 +14,12 @@ Die **Timeboxing-Methode** ist eine weitere Selbstmanagement-Methode, die heute 
 
 Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
 
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
+1. Aufgaben identifizieren: Beginne damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
+2. Zeit schätzen: Schätze ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtige dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
+3. Zeitblöcke erstellen: Teile den Tag in spezifische Zeitblöcke ein, in denen du dich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
 4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
 
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
 
 ## Ein Kurzvideo zum Thema
 

@@ -12,7 +12,11 @@ Die **Karteikarten-Methode** ist eine weitere Selbstmanagement-Methode, die heut
 
 ## Die Karteikarten-Methode kurzgefasst
 
-Die Karteikartentechnik ist eine bewährte Methode zur effektiven Wissensorganisation und -vermittlung. Sie basiert auf der Verwendung von Karteikarten, die Informationen in kompaktem Format festhalten. Diese Technik eignet sich hervorragend für das Lernen von Fakten, Vokabeln oder Konzepten und fördert das aktive Wiederholen. Um die Karteikartentechnik anzuwenden, schreibst du auf die Vorderseite einer Karteikarte eine Frage oder ein Schlüsselwort. Auf die Rückseite notierst du die Antwort oder eine ausführliche Erklärung. Dieser einfache Aufbau ermöglicht es, gezielt zu lernen und das Gedächtnis zu trainieren. Durch regelmäßiges Durcharbeiten der Karten kannst du dein Wissen festigen und Lücken identifizieren. Ein weiterer Vorteil der Karteikartentechnik ist ihre Flexibilität. Du kannst die Karten überallhin mitnehmen und jederzeit lernen. Zudem lässt sich die Methode leicht anpassen: Verwende Farben oder Symbole, um verschiedene Themen zu kennzeichnen. Die Kombination aus visuellem Lernen und aktivem Abrufen fördert nicht nur das Verständnis, sondern auch die langfristige Behaltensleistung.
+Die Karteikartentechnik ist eine bewährte Methode zur effektiven Wissensorganisation und -vermittlung. Sie basiert auf der Verwendung von Karteikarten, die Informationen in kompaktem Format festhalten. Diese Technik eignet sich hervorragend für das Lernen von Fakten, Vokabeln oder Konzepten und fördert das aktive Wiederholen. 
+
+Um die Karteikartentechnik anzuwenden, schreibst du auf die Vorderseite einer Karteikarte eine Frage oder ein Schlüsselwort. Auf die Rückseite notierst du die Antwort oder eine ausführliche Erklärung. Dieser einfache Aufbau ermöglicht es, gezielt zu lernen und das Gedächtnis zu trainieren. Durch regelmäßiges Durcharbeiten der Karten kannst du dein Wissen festigen und Lücken identifizieren. Ein weiterer Vorteil der Karteikartentechnik ist ihre Flexibilität. Du kannst die Karten überallhin mitnehmen und jederzeit lernen. Zudem lässt sich die Methode leicht anpassen: Verwende Farben oder Symbole, um verschiedene Themen zu kennzeichnen. 
+
+Die Kombination aus visuellem Lernen und aktivem Abrufen fördert nicht nur das Verständnis, sondern auch die langfristige Behaltensleistung.
 
 ## Ein Kurzvideo zum Thema
 
