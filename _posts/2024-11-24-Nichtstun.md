@@ -12,7 +12,9 @@ Die **Nichtstun-Methode** ist eine weitere Selbstmanagement-Methode, die heute T
 
 ## Die Timeboxing-Methode kurzgefasst
 
-Man muss sich selber auch mal was jönne könne. Übertreibe es nicht mit der Selbstoptimierung. Frohe Festtage!
+Man muss sich selber auch mal was jönne könne. Übertreibe es nicht mit der Selbstoptimierung. 
+
+Frohe Festtage, Henri!
 
 ## Ein Kurzvideo zum Thema
 
