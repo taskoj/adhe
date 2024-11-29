@@ -18,4 +18,4 @@ Die Adaption der Leverage-Point-Methode für persönliches Selbstmanagement ist 
 
 Im folgenden Kurzvideo gibt es eine Zusammenfassung der Methode. Vielleicht wird es damit verständlicher, wie die Methode angewendet werden kann.
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/qXgKaJsmwz4?si=kDZdW2PwSfwlrfW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="336" height="189" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/uMTj2Nb_oq4?si=GrWRZLCrxHKN5TGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

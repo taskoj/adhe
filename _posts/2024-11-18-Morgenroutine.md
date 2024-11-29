@@ -32,8 +32,6 @@ Eine Morgenroutine ist entscheidend für einen erfolgreichen Start in den Tag un
 
 Indem du diese Elemente in deine Morgenroutine integrierst, schaffst du eine solide Grundlage für einen produktiven Tag. Experimentiere mit verschiedenen Aktivitäten und finde heraus, was am besten zu dir passt!
 
-## Ein Kurzvideo zum Thema
+## Kein Kurzvideo zum Thema
 
-Im folgenden Kurzvideo gibt es eine Zusammenfassung der Methode. Vielleicht wird es damit verständlicher, wie die Methode angewendet werden kann.
-
-<iframe width="336" height="189" src="https://www.youtube.com/embed/qXgKaJsmwz4?si=kDZdW2PwSfwlrfW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Zu dem Thema braucht man kein Video. Und falls doch: Das Netzt ist voll von Morgenroutinen. 
