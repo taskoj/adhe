@@ -12,14 +12,7 @@ Die **Mindset-Methode** ist eine weitere Selbstmanagement-Methode, die heute The
 
 ## Die Mindset-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Das Mindset beschreibt die Denkweise, Einstellungen und Überzeugungen einer Person, die prägen, wie sie die Welt wahrnimmt und darauf reagiert. Der Begriff ist in der Psychologie von zentraler Bedeutung und beeinflusst maßgeblich den persönlichen und beruflichen Erfolg. Besonders bekannt ist die Unterscheidung zwischen dem Fixed Mindset (statisches Mindset) und dem Growth Mindset (dynamisches Mindset), die von der Psychologin Carol Dweck geprägt wurde. Menschen mit einem Fixed Mindset glauben, dass ihre Fähigkeiten und Talente festgelegt sind. Sie vermeiden Herausforderungen, fürchten Misserfolge und sehen Anstrengung oft als sinnlos an. Im Gegensatz dazu sind Personen mit einem Growth Mindset überzeugt, dass sie sich durch Lernen und Anstrengung weiterentwickeln können. Sie betrachten Herausforderungen als Chancen, sind bereit, aus Fehlern zu lernen, und fühlen sich inspiriert durch den Erfolg anderer. Ein positives Mindset ist entscheidend für das persönliche Wachstum und die Fähigkeit, Rückschläge zu überwinden. Es ermöglicht eine offene Haltung gegenüber Veränderungen und fördert die Motivation, Ziele aktiv zu verfolgen. Um das eigene Mindset zu verbessern, ist es wichtig, bewusst an der eigenen Einstellung zu arbeiten, negative Gedanken zu hinterfragen und sich auf Möglichkeiten der Weiterentwicklung zu konzentrieren. Ein dynamisches Mindset kann somit nicht nur das individuelle Glück steigern, sondern auch den Weg zum Erfolg ebnen.
 
 ## Ein Kurzvideo zum Thema
 

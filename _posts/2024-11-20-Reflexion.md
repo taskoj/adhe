@@ -12,14 +12,7 @@ Die **Reflexion-Methode** ist eine weitere Selbstmanagement-Methode, die heute T
 
 ## Die Reflexion-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Reflexion oder der Tagesrückblick ist eine wertvolle Methode, um den Tag bewusst abzuschließen und das eigene Wohlbefinden zu steigern. Diese Praxis fördert nicht nur die Achtsamkeit, sondern hilft auch, positive Erlebnisse und Erfolge zu würdigen. Der Tagesrückblick kann in verschiedenen Formen durchgeführt werden, wobei eine der einfachsten Methoden darin besteht, sich am Abend einige Minuten Zeit zu nehmen, um über die Ereignisse des Tages nachzudenken. Eine effektive Variante ist der positive Tagesrückblick, bei dem du drei Dinge aufschreibst, die dir an diesem Tag Freude bereitet haben. Dies können kleine Momente sein, wie ein nettes Gespräch oder ein leckeres Essen. Indem du dich auf das Positive konzentrierst, stärkst du deine Dankbarkeit und reduzierst Stress. Studien zeigen, dass regelmäßige Reflexionen das allgemeine Wohlbefinden verbessern und depressive Symptome verringern können. Eine weitere Methode ist die „5-Finger-Methode“, bei der du jedem Finger eine Reflexionsfrage zuordnest. Zum Beispiel: Was habe ich heute gelernt? Was war besonders positiv? Diese strukturierte Herangehensweise hilft dir, den Tag umfassend zu reflektieren und wichtige Erkenntnisse festzuhalten. Langfristig führt die regelmäßige Praxis des Tagesrückblicks zu einer positiven Veränderung deiner Denkweise. Du wirst sensibler für schöne Momente im Alltag und kannst Herausforderungen gelassener begegnen. Indem du deine Erfolge und positiven Erlebnisse schriftlich festhältst, trainierst du dein Gehirn darauf, das Gute in deinem Leben stärker wahrzunehmen.
 
 ## Ein Kurzvideo zum Thema
 

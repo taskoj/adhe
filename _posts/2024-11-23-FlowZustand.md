@@ -12,14 +12,7 @@ Die **Flow-Zustand-Methode** ist eine weitere Selbstmanagement-Methode, die heut
 
 ## Die Flow-Zustand-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Der Flow-Zustand ist ein mentaler Zustand, der durch vollständige Vertiefung in eine Tätigkeit gekennzeichnet ist und oft mit Höchstleistungen und einem Gefühl von Glück verbunden ist. Um diesen Zustand herbeizuführen, gibt es verschiedene Strategien, die helfen können, die Voraussetzungen zu schaffen. 1. Intrinsische Motivation: Der Flow wird am besten erreicht, wenn du eine Tätigkeit aus Freude und Interesse ausführst, nicht aus Pflichtgefühl. Wähle Aufgaben, die dich begeistern und herausfordern. 2. Klare Ziele: Setze dir spezifische und erreichbare Ziele für die jeweilige Aufgabe. Klare Zielsetzungen helfen dir, fokussiert zu bleiben und den Fortschritt zu verfolgen. 3. Angemessene Herausforderung: Der Flow-Zustand entsteht, wenn die Anforderungen der Aufgabe genau im richtigen Verhältnis zu deinen Fähigkeiten stehen. Eine zu einfache Aufgabe führt zu Langeweile, während eine überfordernde Aufgabe Frustration erzeugt. 4. Minimierung von Ablenkungen: Um in den Flow zu gelangen, ist es wichtig, Ablenkungen zu reduzieren. Schalte Benachrichtigungen aus und schaffe eine ruhige Arbeitsumgebung. 5. Achtsamkeit: Praktiken wie Meditation oder Atemübungen können helfen, im Moment präsent zu sein und den Geist zu beruhigen. Dies fördert die Konzentration und erleichtert den Zugang zum Flow. 6. Mehrere Sinne aktivieren: Involviere mehrere Sinne in deine Tätigkeit, um das Erlebnis intensiver zu gestalten. Das kann durch Musik, Düfte oder visuelle Reize geschehen. 7. Regelmäßige Pausen: Plane kurze Pausen ein, um deine Energie aufzufrischen und deine Konzentration aufrechtzuerhalten. Durch die Anwendung dieser Strategien kannst du die Wahrscheinlichkeit erhöhen, in den Flow-Zustand zu gelangen und somit sowohl deine Kreativität als auch deine Produktivität steigern.
 
 ## Ein Kurzvideo zum Thema
 

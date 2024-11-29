@@ -12,14 +12,7 @@ Die **Nichtstun-Methode** ist eine weitere Selbstmanagement-Methode, die heute T
 
 ## Die Timeboxing-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Methode des Nichtstuns, auch als Kunst des Nichtstuns bekannt, ist eine bewusste Praxis, die darauf abzielt, den Geist zu entspannen und Raum für Kreativität und Selbstreflexion zu schaffen. In einer Welt voller Ablenkungen und ständiger Aktivität ist es oft schwierig, sich die Zeit zu nehmen, einfach nichts zu tun. Doch das bewusste Aussetzen von Aktivitäten kann sehr produktiv sein. Wissenschaftliche Studien zeigen, dass unser Gehirn im Zustand des Nichtstuns, insbesondere im sogenannten „Default Mode Network“, aktiv bleibt. In diesem Zustand können wir Gedanken schweifen lassen, alte Muster durchbrechen und neue Ideen entwickeln. Es ermöglicht uns, aus einer Vogelperspektive auf unsere Gedanken und Emotionen zu schauen, was zu mehr Selbsterkenntnis und Kreativität führen kann. Um mit dem Nichtstun zu beginnen, ist es hilfreich, einen ruhigen Ort zu wählen und alle Ablenkungen wie Handys oder Fernseher auszuschalten. Setze dich bequem hin und lasse deine Gedanken kommen und gehen, ohne sie aktiv zu steuern. Du kannst auch kurze Pausen von zwei Minuten in deinen Alltag einplanen, um gezielt nichts zu tun. Diese kleinen Auszeiten helfen nicht nur dabei, Stress abzubauen, sondern fördern auch die geistige Klarheit. Insgesamt ist die Methode des Nichtstuns eine wertvolle Technik zur Förderung von Entspannung und Kreativität. Indem du dir bewusst Zeit nimmst, um einfach zu sein, kannst du deine Produktivität langfristig steigern und ein besseres Gleichgewicht zwischen Arbeit und Erholung finden.
 
 ## Ein Kurzvideo zum Thema
 

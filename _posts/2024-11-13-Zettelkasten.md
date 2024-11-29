@@ -12,14 +12,7 @@ Die **Zettelkasten-Methode** ist eine weitere Selbstmanagement-Methode, die heut
 
 ## Die Zettelkasten-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Zettelkasten-Methode ist ein effektives System zur Organisation und Vernetzung von Wissen, das ursprünglich von dem Soziologen Niklas Luhmann entwickelt wurde. Der Kern dieser Methode besteht darin, Gedanken und Informationen auf kleinen Zetteln festzuhalten, die dann thematisch sortiert und miteinander verknüpft werden. Dies ermöglicht eine flexible und dynamische Wissensverwaltung. Der Prozess beginnt mit dem Sammeln von Informationen während des Lesens oder Nachdenkens. Jeder Zettel sollte einen einzelnen Gedanken oder eine Idee enthalten und mit einer Quellenangabe versehen sein. Diese Notizen werden dann in einem Zettelkasten abgelegt. Wichtig ist, dass die Zettel nicht nur isoliert stehen, sondern durch Querverweise und Kategorien miteinander verbunden werden. So entsteht ein Netzwerk aus Ideen, das es erleichtert, neue Verbindungen zu erkennen und bestehendes Wissen zu erweitern. Ein zentraler Vorteil der Zettelkasten-Methode ist die Förderung des kreativen Denkens. Durch die Verknüpfung unterschiedlicher Gedanken können neue Perspektiven und Erkenntnisse gewonnen werden. Außerdem hilft das System, Informationen langfristig zu behalten, da es auf der natürlichen Funktionsweise des menschlichen Gedächtnisses basiert. Um die Methode erfolgreich anzuwenden, sollten Nutzer regelmäßig ihre Zettel überprüfen und aktualisieren. Dies fördert nicht nur das Lernen, sondern auch die Entwicklung eigener Gedanken und Argumente. Insgesamt ist die Zettelkasten-Methode ein kraftvolles Werkzeug für jeden, der sein Wissen effektiv organisieren und nutzen möchte.
 
 ## Ein Kurzvideo zum Thema
 

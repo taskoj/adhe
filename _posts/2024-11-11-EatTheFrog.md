@@ -12,14 +12,13 @@ Die **Eat-the-frog-Methode** ist eine weitere Selbstmanagement-Methode, die heut
 
 ## Die Eat-the-frog-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
+Die Eat-the-Frog-Methode ist eine effektive Zeitmanagement-Technik, die darauf abzielt, unangenehme oder schwierige Aufgaben zuerst zu erledigen. Diese Methode wurde populär durch den amerikanischen Autor Brian Tracy, der sie in seinem Buch „Eat That Frog!“ vorstellte. Der Begriff „Frosch“ steht symbolisch für die Aufgaben, die wir am liebsten aufschieben, obwohl sie oft die höchste Priorität haben.
 
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
+Der Grundgedanke ist einfach: Beginne deinen Tag mit der herausforderndsten Aufgabe, die dir bevorsteht. Indem du diese zuerst angehst, reduzierst du den Stress und das schlechte Gewissen, das mit dem Aufschieben einhergeht. Tracy zitiert Mark Twain, der sagte: „Iss morgens als Erstes einen lebenden Frosch und dir wird für den Rest des Tages nichts Schlimmeres passieren.“ 
 
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Vorteile dieser Methode sind vielfältig. Zunächst einmal steigert sie die Produktivität, da du mit einem Gefühl der Erfüllung in den Tag startest. Sobald die unangenehme Aufgabe erledigt ist, fällt es dir leichter, die restlichen Aufgaben abzuarbeiten. Zudem hilft das frühzeitige Anpacken von Herausforderungen, Prokrastination zu vermeiden und Prioritäten klar zu setzen.
+
+Um die Methode anzuwenden, identifiziere deine „Frösche“ – die Aufgaben, die du am meisten aufschiebst. Plane dann deinen Tag so, dass du diese als erstes erledigst. Diese Herangehensweise fördert nicht nur eine bessere Organisation deines Arbeitsalltags, sondern steigert auch dein Selbstvertrauen und deine Zufriedenheit.
 
 ## Ein Kurzvideo zum Thema
 

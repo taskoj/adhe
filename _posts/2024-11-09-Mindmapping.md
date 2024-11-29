@@ -12,14 +12,11 @@ Die **Mindmapping-Methode** ist eine weitere Selbstmanagement-Methode, die heute
 
 ## Die Mindmapping-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
+Mindmapping ist eine kreative Technik zur visuellen Darstellung und Strukturierung von Gedanken und Informationen. Bei dieser Methode wird ein zentrales Thema in die Mitte eines Blattes geschrieben, von dem aus Äste zu verwandten Ideen oder Unterthemen abzweigen. Jeder Ast enthält kurze Schlüsselwörter oder Bilder, die die Informationen prägnant darstellen.
 
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
+Ein großer Vorteil des Mindmappings ist, dass es die Kreativität fördert und das Gedächtnis unterstützt. Durch den Einsatz von Farben und Bildern können Informationen leichter verarbeitet und erinnert werden. Mindmaps sind vielseitig einsetzbar: Sie eignen sich hervorragend für Projektplanungen, Präsentationsvorbereitungen oder das Lernen für Prüfungen.
 
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Technik ist einfach zu erlernen und besteht aus drei Schritten: Zuerst wird das zentrale Thema festgelegt, dann werden relevante Schlüsselbegriffe gesammelt, und schließlich wird die Mindmap ausgearbeitet, indem Beziehungen zwischen den Begriffen visualisiert werden. Insgesamt ist Mindmapping eine wertvolle Methode, um komplexe Themen zu durchdringen und kreative Lösungen zu finden.
 
 ## Ein Kurzvideo zum Thema
 

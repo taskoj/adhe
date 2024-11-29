@@ -12,14 +12,7 @@ Die **Leverage-Points-Methode** ist eine weitere Selbstmanagement-Methode, die h
 
 ## Die Leverage-Points-Methode kurzgefasst
 
-Diese Methode hilft, die verfügbare Zeit optimal zu nutzen und die Produktivität zu steigern1. Folgende Schritte gehören dazu:
-
-1. Aufgaben identifizieren: Beginnen Sie damit, alle Aufgaben zu sammeln, die erledigt werden müssen.
-2. Zeit schätzen: Schätzen Sie ab, wie viel Zeit jede Aufgabe benötigt. Berücksichtigen Sie dabei auch Pausen und Pufferzeiten für unerwartete Unterbrechungen.
-3. Zeitblöcke erstellen: Teilen Sie den Tag in spezifische Zeitblöcke ein, in denen Sie sich ausschließlich einer Aufgabe widmen. Diese Blöcke können Minuten, Stunden oder sogar Tage umfassen, je nach Komplexität der Aufgabe.
-4. Fokus aufrechterhalten: Während der Timebox sollten Ablenkungen vermieden werden, um die Konzentration auf die jeweilige Aufgabe zu maximieren.
-
-Wenn die Zeit der harten Timebox abgelaufen ist, dann arbeitest Du nicht mehr an der Aufgabe weiter, egal ob sie abgeschlossen wurde oder nicht. Dies bietet sich vor allem bei Aufgaben an, die eine feste Deadline haben.
+Die Adaption der Leverage-Point-Methode für persönliches Selbstmanagement ist eine effektive Strategie, um gezielte Veränderungen im eigenen Leben zu bewirken. Diese Methode basiert auf der Identifizierung von Schlüsselbereichen, in denen kleine Anpassungen große Auswirkungen auf das persönliche Wohlbefinden und die Produktivität haben können. Zunächst solltest du deine aktuellen Lebensbereiche analysieren, wie Arbeit, Gesundheit, Beziehungen und persönliche Entwicklung. Überlege dir, welche Herausforderungen oder Probleme in diesen Bereichen bestehen. Dann identifiziere spezifische Leverage Points – das sind die Punkte, an denen eine kleine Veränderung eine signifikante Verbesserung bewirken kann. Beispielsweise könnte das Setzen klarer Ziele im beruflichen Bereich oder die Einführung einer regelmäßigen Sportroutine im Gesundheitsbereich ein solcher Punkt sein. Sobald du diese Schlüsselstellen identifiziert hast, entwickle konkrete Maßnahmen, um Veränderungen herbeizuführen. Dies könnte beinhalten, tägliche Gewohnheiten zu ändern, Prioritäten neu zu setzen oder Zeit für Selbstreflexion einzuplanen. Dokumentiere deine Fortschritte und reflektiere regelmäßig über die Auswirkungen der Veränderungen. Durch diese strukturierte Herangehensweise kannst du nicht nur deine Effizienz steigern, sondern auch dein allgemeines Lebensgefühl verbessern. Die Leverage-Point-Methode ermöglicht es dir, fokussiert an den richtigen Stellen zu arbeiten und so nachhaltige Fortschritte in deinem Selbstmanagement zu erzielen.
 
 ## Ein Kurzvideo zum Thema
 
