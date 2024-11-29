@@ -18,4 +18,4 @@ Die Zettelkasten-Methode ist ein effektives System zur Organisation und Vernetzu
 
 Im folgenden Kurzvideo gibt es eine Zusammenfassung der Methode. Vielleicht wird es damit verständlicher, wie die Methode angewendet werden kann.
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/rOSZOCoqOo8?si=rpZCyOptOceXVdVr" title="YouTube video player"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="336" height="189" src="https://www.youtube.com/embed/rOSZOCoqOo8?si=rpZCyOptOceXVdVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
